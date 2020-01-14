@@ -14,13 +14,7 @@ else {
   });
 }
 
-connection.connect(function (err) {
-  if (err) {
-    console.error("error connecting: " + err.stack);
-    return;
-  }
-  console.log("Connected as ID: " + connection.threadId);
-});
+connection.connect();
 
 // Export the connection.
 module.exports = connection;

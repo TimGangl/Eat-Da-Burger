@@ -4,7 +4,7 @@ Eat-Da-Burger is a simple App that lets the user create burgers of their own des
 ## Getting Started
 To run the application locally, first clone this repository with the following command.
 
- `git clone git@github.om:TimGangl/Eat-Da-Burger.git`
+` git clone git@github.om:TimGangl/Eat-Da-Burger.git`
 
 # Built With
 * Express

@@ -26,3 +26,6 @@ Then all thats left is to **Eat-Da-Burger**
 * Express
 * Express-handlebars
 * MySQL
+## Screenshot
+<br>
+![Eat-Da-Burger](burgerscreenshot.png)

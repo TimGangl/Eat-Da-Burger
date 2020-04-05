@@ -18,7 +18,7 @@ Finally, run the node server locally.
 ```
 node server
 ```
-Now, open the local application on port 3000 at URL http://localhost:3000/ .
+Now, open the local application on port 3000 at URL `http://localhost:3000/` .
 
 Then all thats left is to **Eat-Da-Burger**
 
